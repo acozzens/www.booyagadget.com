@@ -1,0 +1,22 @@
+# Site navigation links
+
+#- title: Articles
+#  url: /articles/
+
+#- title: Gaming
+#  url: /category/ps3/
+
+- title: Free-Stuff
+  url: /free-download-stuff/  #/free-ps3-themes/
+
+#- title: Vehicle-Projects
+#  url: /category/vehicle/  #/free-ps3-themes/
+
+- title: Search
+  url: /search/
+
+#- title: Contact-Us
+#  url: /booya-communications/
+
+- title: About
+  url: /about/

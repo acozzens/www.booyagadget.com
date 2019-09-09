@@ -1,0 +1,70 @@
+# PS3 THEMES
+# see config for site vars: ps3-theme-preview-img-loc: /images/theme-previews/
+# see config for site vars: ps3-theme-download-loc: /downloads/ps3-themes/
+
+- title: Free Christmas Holiday PS3 Theme #(1208)
+  img-preview-full: "free-holiday-ps3-theme_booya-gadget.jpg"
+  img-preview-small: "free-holiday-ps3-theme_booya-gadget-640.jpg"
+  img-preview-alt: "Free Christmas Holiday PS3 Theme Preview booya gadget"
+  img-fig-caption: "PS3 Snowman"
+  download-link: "HolidayPS3Theme.p3t"
+  video-link: "https://www.youtube.com/watch?v=MV-KtKg669g"
+  article-link: /2010/11/free-christmas-happy-holidays-ps3-theme.html
+  download-ct: 1208
+
+- title: Free Easter Egg PS3 Theme #(747)
+  img-preview-full: "free-easter-egg-ps3-theme-booya-gadget.jpg"
+  img-preview-small: "free-easter-egg-ps3-theme-booya-gadget-640.jpg"
+  img-preview-alt: "Free Christmas Holiday PS3 Theme Preview booya gadget"
+  img-fig-caption: "PS3 Eggs"
+  download-link: "PS3EasterEggTheme.p3t"
+  video-link:  "https://www.youtube.com/watch?v=6Ym4nMGlLYA"
+  article-link: /2011/03/free-easter-ps3-theme.html
+  download-ct: 747
+
+- title: Free Halloween PS3 Theme #(579)
+  img-preview-full: "free-halloween-ps3-theme.jpg"
+  img-preview-small: "free-halloween-ps3-theme-640.jpg"
+  img-preview-alt: "Free Christmas Holiday PS3 Theme Preview booya gadget"
+  img-fig-caption: "PS3 Pumpkin"
+  download-link: "HalloweenTheme.p3t"
+  video-link: "https://www.youtube.com/watch?v=fXLF9XXS7tU"
+  article-link: /2010/10/free-ps3-halloween-theme-from-booya-gadget.html
+  download-ct: 579
+
+- title: Free Thanksgiving PS3 Theme #(441)
+  img-preview-full: "free-thanksgiving-day-ps3-theme-booya.jpg"
+  img-preview-small: "free-thanksgiving-day-ps3-theme-booya-640.jpg"
+  img-preview-alt: "Free Christmas Holiday PS3 Theme Preview booya gadget"
+  img-fig-caption: "PS3 Turkey"
+  download-link: "FreeThanksgivingPS3Theme.p3t"
+  video-link:  ''
+  article-link: /2010/11/free-thanksgiving-theme-for-your-ps3-and-psp.html
+  download-ct: 441
+
+- title: Free St. Patrick's Day PS3 Theme #(428)
+  img-preview-full: "free-st-pats-ps3-theme-booya.jpg"
+  img-preview-small: "free-st-pats-ps3-theme-booya-640.jpg"
+  img-fig-caption: "PS3 St Patrick's Day Guiness"
+  download-link: "StPatricksDayPS3Theme.p3t"
+  video-link: ""
+  article-link: /2011/02/free-ps3-st-patricks-day-theme.html
+  download-ct: 428
+
+- title: Free Earth Day PS3 Theme #(352)
+  img-preview-full: "earth-day-ps3-theme-booya-gadget.jpg"
+  img-preview-small: "earth-day-ps3-theme-booya-gadget-640.jpg"
+  img-fig-caption: "PS3 Show your love for Earth!"
+  download-link: "Free-Earth-Day-PS3-Theme-Booya-Gadget.p3t"
+  video-link: ""
+  article-link: /2011/04/celebrate-earth-day-with-a-free-ps3-theme.html
+  download-ct: 352
+
+- title: Free PS3 Valentine's Day Theme #(334)
+  img-preview-full: "free-valentines-day-ps3-theme-booya.jpg"
+  img-preview-small: "free-valentines-day-ps3-theme-booya-640.jpg"
+  img-fig-caption: "PS3 Heartwarmer"
+  download-link: "PS3ValentinesDayTheme.p3t"
+  video-link: ""
+  article-link: /2011/01/free-ps3-valentines-day-theme-a-scentsy-offer-cupid-mini.html
+  download-ct: 334

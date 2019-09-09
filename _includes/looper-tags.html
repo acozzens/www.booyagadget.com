@@ -1,0 +1,25 @@
+<ul class="post-list">
+{% for post in site.tags[page.loop_category] limit:20 %}
+<li>
+  <article>
+    <a href="{{ site.url }}{{ post.url }}">
+      {% if post.post_thumbnail_loc != null and post.post_thumbnail_loc != empty  %}
+      <span class="ac-post-thumb">
+          <img src='{{ site.cdn-url }}{{ post.post_thumbnail_loc }}'>
+      </span>
+      {% endif %}
+    <h5>{{ post.title }}</h5>
+    {% if post.excerpt and post.post_thumbnail_loc == empty %}
+    {% comment %} {% raw %}{% if post.excerpt and (post.post_thumbnail_loc == null or post.post_thumbnail_loc == empty) %} {% endraw %}{% endcomment %}
+    {% comment %}{% raw %}{% elsif y %}{% endraw %}{% endcomment %}
+    <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}
+      </span>
+      {% endif %}
+    </a>
+    <div class="entry-date">
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
+    </div>
+  </article><BR>
+</li>
+{% endfor %}
+</ul>

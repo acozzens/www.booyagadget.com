@@ -1,0 +1,77 @@
+# Site wide configuration
+
+title: Booya Gadget
+locale: en_US
+description: Tech enthusiasts sharing How-Tos, Reviews, Info and News.
+logo: site-logo.png
+search: true
+#ads: true
+# data files build paths for the theme list pages.  add cdn-url to below for path
+ps3-theme-preview-img-loc: /images/theme-previews/
+ps3-theme-download-loc: /downloads/ps3-themes/
+psp-theme-preview-img-loc: /images/theme-previews-psp/
+psp-theme-download-loc: /downloads/psp-themes/
+
+#host: 0.0.0.0
+#host: localhost
+#url: http://localhost:4000
+url: https://www.booyagadget.com
+cdn-url: https://data.booyagadget.com
+
+#future: true 
+# should work now.
+# Jekyll configuration
+
+# ORIGINAL permalink:   /:categories/:title/
+permalink: /:year/:month/:title.html/
+
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+plugins:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-redirect-from
+
+#ac for local safe github pages sim
+#whitelist:
+#    - jekyll-redirect-from
+
+kramdown:
+  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6  #ac note this started as 1..2
+  enable_coderay: false
+
+mathjax: false
+
+#include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor", "bitbucket-pipelines.yml", "s3_website.yml", "deploy.sh"]
+
+
+# Site owner
+owner:
+  name: Booya Gadget
+  avatar: bio-photo.jpg
+  #email: superfake@email.com
+  #disqus-shortname: #fake
+  twitter: BooyaGadget
+  #facebook: #username
+  #github: #username
+  #stackexchange: #http://stackoverflow.com/users/123456/username
+  #linkedin: #username
+  #instagram: #username
+  flickr: BooyaGadget
+  google:
+    plus: 
+    analytics: UA-17058420-6
+    #verify: 
+    ad-client: ca-pub-3654896181412033
+    ad-slot-footer: 2382717158
+    ad-slot-sidebar: 9391112084 #5700991548
+  #bing-verify:

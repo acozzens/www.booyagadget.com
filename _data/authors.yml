@@ -1,0 +1,20 @@
+# Authors
+
+BooyaCuz:
+  name: Booya Gadget
+  web: http://thewhip.coz
+  #email: superfake@email.gom
+  bio: "The quick brown fox"
+  avatar: bio-photo-2.jpg
+  twitter: BooyaGadget
+  google:
+    plus: #BooyaGadgetPlus
+
+BooyaTRJ:
+  name: TRJ
+  #email: superfake@email.goz
+  bio: "I ordered what?"
+  avatar: bio-photo.jpg
+  twitter: BooyaGadget
+  google:
+    plus: #BooyaGadgetPlus

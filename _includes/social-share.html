@@ -1,0 +1,19 @@
+<span class="social-share-twitter">
+  <!-- <a href="https://twitter.com/intent/tweet?hashtags=BooyaGadget&amp;text={{ page.title | escape | replace:' ','%20' }}&amp;url={{ page.url }}{% if author.twitter %}&amp;via={{ author.twitter }}{% endif %}" title="Share on Twitter" itemprop="Twitter"><i class="fa fa-twitter-square"></i> Tweet</a> -->
+  <a href="https://twitter.com/intent/tweet?text={{ page.title | escape | replace:' ','%20' }}&amp;url={{ site.url }}{{ page.url }}&amp;via=BooyaGadget" title="Share on Twitter" itemprop="Twitter"><i class="fa fa-twitter-square"></i> Tweet</a>
+</span>
+{% if site.owner.facebook %}
+<span class="social-share-facebook">
+  <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook" itemprop="Facebook"><i class="fa fa-facebook-square"></i> Like</a>
+</span>    
+{% endif %}
+<span class="social-share-googleplus">
+  <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google Plus" itemprop="GooglePlus"><i class="fa fa-google-plus-square"></i> +1</a>
+</span>
+<!-- /.social-share -->
+
+{% if 1=2 %}
+<span class="social-share-twitter">
+  <a href="https://twitter.com/intent/tweet?hashtags={{ page.tags | join: ',' | remove: ' ' }}&amp;text={{ page.title | escape | replace:' ','%20' }}&amp;url={{ site.url }}{{ page.url }}{% if author.twitter %}&amp;via={{ author.twitter }}{% endif %}" title="Share on Twitter" itemprop="Twitter"><i class="fa fa-twitter-square"></i> Tweet</a>
+</span>
+{% endif %}

@@ -1,0 +1,35 @@
+---
+layout: page
+title: Latest Posts
+excerpt: "Booya Gadget BooyaGadget BG"
+search_omit: true
+---
+
+<ul class="post-list">
+{% for post in site.categories.Featured limit:15 %}  <!-- ac zzz started at 230 to begin from back reversed offset:20 limit:55    for post in site.categories.Featured limit:15 -->
+  <li>
+    <article>
+       <a href="{{ site.url }}{{ post.url }}">
+        {% if post.post_thumbnail_loc != null and post.post_thumbnail_loc != empty  %}
+        <span class="ac-post-thumb">
+            <!--AC NOTE The commented out is original this shows author avatar next to article. uncommented creates post-thum effect.-->
+            <!--<img src="{{ site.baseurl}}/img/{{ post.author_avatar }}.jpg" class="user-icon user-1" alt="user-image">-->
+            <!-- <img src='{{ site.offSiteAssetBaseUrl | append: post.my_post_thumb }}.jpg'>  -->
+            <img src='{{ site.cdn-url }}{{ post.post_thumbnail_loc }}' alt="post thumbnail">
+        </span>
+        {% endif %}
+      <h5>{{ post.title }}</h5>
+      {% if post.excerpt and post.post_thumbnail_loc == empty %}
+      {% comment %} {% raw %}{% if post.excerpt and (post.post_thumbnail_loc == null or post.post_thumbnail_loc == empty) %} {% endraw %}{% endcomment %}
+      {% comment %}{% raw %}{% elsif y %}{% endraw %}{% endcomment %}
+      <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}
+        </span>
+        {% endif %}
+      </a>
+      <div class="entry-date">
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
+      </div>
+    </article><BR>
+  </li>
+{% endfor %}
+</ul>

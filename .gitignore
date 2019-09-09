@@ -1,4 +1,13 @@
 _site/
-.sass-cache/
-.jekyll-cache/
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+codekit-config.json
+node_modules
+.sass-cache
 .jekyll-metadata
+images/
+downloads/
+wp-content/
+.vscode/
+bitbucket-pipelines.yml

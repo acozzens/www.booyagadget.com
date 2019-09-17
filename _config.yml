@@ -34,8 +34,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jekyll-redirect-from
 
+#  - jekyll-redirect-from  / not redirecting anymore just kill to 404 the old stuff.
 #ac for local safe github pages sim
 #whitelist:
 #    - jekyll-redirect-from

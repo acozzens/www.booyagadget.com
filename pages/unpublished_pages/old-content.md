@@ -4,6 +4,7 @@ date: 2017-10-15T15:28:04+00:00
 author: Booya Gadget
 layout: page
 permalink: /old-content/
+published: false
 redirect_from:
   - /2010/06/free-hd-cable-with-hd-antenna-just-like-booyagadget-com.html
   - /2010/06/ps3-firmware-3-40-new-video-uploader.html

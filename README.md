@@ -1,3 +1,8 @@
+Booya YouTube:  https://www.youtube.com/booyagadget  
+Booya Flicker:  https://www.flickr.com/photos/booyagadget/albums  
+Booya Twitter:  https://twitter.com/booyagadget  
+
+This website was based off an older version of M.Rose so simple theme. Although I should update it to the newer version.
 # So Simple Theme
 
 Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes/) -- by designer slash illustrator [Michael Rose](http://mademistakes.com).

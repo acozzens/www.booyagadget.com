@@ -1,6 +1,6 @@
-Booya YouTube:  https://www.youtube.com/booyagadget
-Booya Flicker:  https://www.flickr.com/photos/booyagadget/albums
-Booya Twitter:  https://twitter.com/booyagadget
+Booya YouTube:  https://www.youtube.com/booyagadget  
+Booya Flicker:  https://www.flickr.com/photos/booyagadget/albums  
+Booya Twitter:  https://twitter.com/booyagadget  
 
 This website was based off an older version of M.Rose so simple theme. Although I should update it to the newer version.
 # So Simple Theme

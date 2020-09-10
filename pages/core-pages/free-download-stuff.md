@@ -22,9 +22,11 @@ Enjoy our free selection of free themes and wallpapers for your phones and plays
 	<figcaption>Our Free PSP Themes</figcaption>
 </figure>
 
+<!-- Obsolete. ac 09.2020
 <figure>
 	<a href="/free-windows-phone-7-wallpapers-for-lock-screen/">
     <img src="{{ site.cdn-url }}/images/pages/WP7-Image1-166x250.jpg" 
          alt="Free Windows Phone 7 Wallpapers Booya Gadget" title="Free Windows Phone 7 Wallpapers"></a>
 	<figcaption>Free Windows Phone 7 Wallpapers</figcaption>
 </figure>
+-->

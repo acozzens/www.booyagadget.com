@@ -85,6 +85,4 @@ One of my personal favorites: [A video review of Spades by JakePoz](https://www.
 Another poupular, but Non XBox Live game you should check out:  
 1. [Krashlander](https://www.microsoft.com/en-us/store/p/krashlander-ski-jump-crash/9wzdncrdck93)
 
-Check out our [New FREE WP7 Wallpaper Page](/free-windows-phone-7-wallpapers-for-lock-screen).
-
 BOOYA!

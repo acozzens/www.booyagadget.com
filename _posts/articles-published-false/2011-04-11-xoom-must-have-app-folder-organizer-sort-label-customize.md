@@ -6,6 +6,7 @@ excerpt: "If you happen to be an Appaholic like I am, then you may be scratching
 layout: post
 permalink: /2011/04/xoom-must-have-app-folder-organizer-sort-label-customize.html
 post_thumbnail_loc: /wp-content/uploads/2011/04/android-apps-folder-organizer-review-booyagadget-thumb.jpg
+published: false
 
 categories:
   - Android

@@ -33,8 +33,6 @@ Assumed step #1 is that already you have your own music on your PS3 or Xbox. For
 
 While I add every picture here and it may seem long, it's not, it just takes a few minutes and I HIGHLY recommend customizing your EA Experience by adding your own beats. You are rewarded with a Trophy/Achievement.
 
-* [All photos of this FIFA project on our Flickr Album](https://www.flickr.com/photos/booyagadget/sets/72157629901577253){:target="_blank"}
-
 ##### 1. Select Customise Fifa / My Music & Chants  
 <figure>
 	<a href="{{ site.cdn-url }}/wp-content/uploads/2012/04/fifa-12-custom-music-step-1.jpg">

@@ -51,5 +51,3 @@ By far, what this game needs most is a map editor, user creations, or at least a
 #### SUMMARY
 
 This game has been around for a long time on many systems and it is damn popular. If you hate tower defense games, then this may not be your cup of tea, but if you want to try something new that you know is loved by most of its owners ( including myself ) then definitely give Defense Grid a shot. When you get to level 20 let me know how you do, it took me a LONG TIME to figure it out!   Not only did I like it the first time around, but I give this game a high replayability score because I can't stop playing my favorite levels over and over. I just get a kick out of trying new strategies or the "challenge levels". My favorite challenge is the Walkers Level, where you face 99 waves of "walkers"  perfect for setting up nasty defense and just flat out destroying alien jive turkeys. This game is a favorite of mine and highly recommended!
-
-View [More Pics at Flickr Macbook Pro Defense Grid HERE](https://www.flickr.com/photos/booyagadget/sets/72157627182272460/){:target="_blank"}.

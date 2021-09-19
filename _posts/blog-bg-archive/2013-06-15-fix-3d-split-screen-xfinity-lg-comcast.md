@@ -70,8 +70,6 @@ Once you see the 3D image that is either Horizontally or Vertically stacked, you
 ##### RELATED / MORE INFO
 
 * READ OUR OTHER XFINITY ARTICLE [HOW TO ON SAVING MONEY, STOP RENTING YOUR CABLE MODEM](/2012/04/save-money-easily-stop-renting-your-comcast-cable-modem.html)
-* [VIEW ALL THE PICTURES I TOOK FROM THIS ARTICLE ON BOOYA FLICKR HERE](https://www.flickr.com/photos/booyagadget/sets/72157634142843489/){:target="_blank"}
-
 * [Getting started with 3D from XFINITY](https://www.xfinity.com/Corporate/Learn/DigitalCable/3D.html){:target="_blank"}
 
 There's no extra charge for 3D from XFINITY! To get started you’ll need:

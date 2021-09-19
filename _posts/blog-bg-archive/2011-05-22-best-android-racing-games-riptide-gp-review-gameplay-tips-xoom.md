@@ -60,8 +60,6 @@ You do tricks to earn BOOST.  To enable the boost you just tap the meter on the
 
 #### More Gameplay Photos
 
-* Here are 28 more [Photos of Riptide GP gameplay at Booya Flickr](https://www.flickr.com/photos/booyagadget/sets/72157626657458709){:target="_blank"}.
-
 * [Buy Riptide GP now at the Google Play Store](https://play.google.com/store/apps/details?id=com.vectorunit.blue&feature=top-paid){:target="_blank"}
 
 Here is the best way to show you [Riptide GP, a video gameplay review recorded from my Motorola Xoom NVidia Tegra 2 Tablet](https://www.youtube.com/watch?v=81lbORqDrqY){:target="_blank"}.

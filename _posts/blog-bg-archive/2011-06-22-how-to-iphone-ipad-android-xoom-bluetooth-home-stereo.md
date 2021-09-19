@@ -54,4 +54,3 @@ CHECK OUT OUR [VIDEO REVIEW ON YOUTUBE OF THIS SWEET LIL DEVICE FOR BLUETOOTH HO
 
 #### Good Luck Out There
 * [CABLE TO BUY FROM ADAPTER TO HOME STEREO](http://amzn.to/2stTS6v){:target="_blank"}
-* [View 10 More photos on our Flickr page](https://www.flickr.com/photos/booyagadget/sets/72157627026732480/){:target="_blank"}

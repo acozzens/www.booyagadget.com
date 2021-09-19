@@ -118,6 +118,5 @@ The PS Vita is a great, sexy little device. While my "GOOD" list is nice, the "B
 With a gun to my head, I'd pass on the Vita and spend my money on a new phone/tablet purchase. If this device costed $200 or even $150  I would call it a must buy, for now, I'll call it a "Very nice to have" gadget. If it fits in your budget via Cash, Parents, or selling old tech, then Yes. The Vita is worth it.
 
 * [PS VITA REVIEWS AND PRICING ON AMAZON.COM](http://amzn.to/2rg66CS){:target="_blank"}
-* [Flickr:  My best 50 Pics of the Vita During Unbox with Accessories](https://www.flickr.com/photos/booyagadget/sets/72157629992240541/with/7339945064/){:target="_blank"}
 * [PS VITA TECHNICAL SPECS / SPECIFICATIONS](/2012/06/ps-vita-features-specs-unbox-accessory-pics.html)
 * [READ OUR ARTICLE: GOOD GAMES TO START WITH AT VITA RELEASE](/2012/06/booyas-top-10-best-ps-vita-games-and-apps-starter-kit.html)

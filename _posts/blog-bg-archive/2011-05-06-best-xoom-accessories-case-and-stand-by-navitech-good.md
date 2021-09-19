@@ -63,8 +63,6 @@ tags:
 
 **More Info!**
 
-* View our full set of [20 Great Pics Showing All 20 pictures of this Tablet Stand-Case](https://www.flickr.com/photos/booyagadget/sets/72157626539465481/){:target="_blank"} for the Xoom on Booya Flickr.
-
 * Amazon.Com: [Navitech Cases for Motorola Xoom](http://amzn.to/2qH44Lw){:target="_blank"}
 
 Watch our [Video Review of the Navitech Case and Tablet Stand](https://www.youtube.com/watch?v=jAEW7S4JYvM){:target="_blank"} now:

@@ -69,7 +69,8 @@ owner:
   flickr: BooyaGadget
   google:
     #plus: 
-    analytics: UA-17058420-6
+    #analytics: G-F0YNFCSBLY #UA-17058420-6 
+    analytics: G-F0YNFCSBLY
     #verify: 
     #ad-client: ca-pub-3654896181412033
     #ad-slot-footer: 2382717158

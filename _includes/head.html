@@ -22,7 +22,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <!-- For all browsers .. ac note only this asset not offload cdn since its made by scss in build -->
-<link rel="stylesheet" href="{{ site.url }}/assets/css/main.css">
+<!-- <link rel="stylesheet" href="{{ site.url }}/assets/css/main.css"> -->
+{% assign cacheBust = site.time | date:'?v=%s' %}
+<link rel="stylesheet" href="{{ '{{ site.url }}/assets/css/main.css' | relative_url | append: cacheBust }}">
 <!-- Webfonts -->
 <script src="https://use.edgefonts.net/source-sans-pro:n2,i2,n3,i3,n4,i4,n6,i6,n7,i7,n9,i9;source-code-pro:n4,n7;volkhov.js"></script>
 

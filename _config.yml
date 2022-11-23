@@ -5,7 +5,7 @@ locale: en_US
 description: Tech enthusiasts sharing How-Tos, Reviews, Info and News.
 logo: site-logo.png
 search: true
-#ads: true
+ads: false
 # data files build paths for the theme list pages.  add cdn-url to below for path
 ps3-theme-preview-img-loc: /images/theme-previews/
 ps3-theme-download-loc: /downloads/ps3-themes/
